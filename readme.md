@@ -4,7 +4,7 @@ The aim of my analysis is to use the unemployment rate time series provided by t
 
 ## Time Series Models Used:
 - a median model
-- simple and multilinear regressions
+- simple and multi-linear regressions
 - a random walk
 - a moving average
 - an Autoregressive Integrated Moving Average (ARIMA)
