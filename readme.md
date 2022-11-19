@@ -1,4 +1,4 @@
-# U.S. Unemployment Rate Forecasts using Time Series Analysis
+# U.S. Unemployment Rate Forecasts Using Time Series Analysis
 
 This repository contains source codes used for my thesis on the U.S. unemployment rate time series forecasting. 
 
